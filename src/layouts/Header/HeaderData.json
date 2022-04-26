@@ -1,0 +1,177 @@
+{
+    "countriesData": {
+        "coutryLang": {
+            "title": "Country & Language",
+            "list": [
+                {
+                    "country": "indonesia",
+                    "name": "Indonesia (Bahasa Indonesia)"
+                },
+                {
+                    "country": "indonesia",
+                    "name": "Indonesia (English)"
+                },
+                {
+                    "country": "global",
+                    "name": "Global (English)"
+                },
+                {
+                    "country": "malaysia",
+                    "name": "Malaysia (English)"
+                },
+                {
+                    "country": "malaysia",
+                    "name": "Malaysia (Bahasa Malaysia)"
+                },
+                {
+                    "country": "philippines",
+                    "name": "Philippines (English)"
+                },
+                {
+                    "country": "singapore",
+                    "name": "Singapore (English)"
+                },
+                {
+                    "country": "thailand",
+                    "name": "Thailand (English)"
+                },
+                {
+                    "country": "thailand",
+                    "name": "ไทย (ภาษาไทย)"
+                },
+                {
+                    "country": "vietnam",
+                    "name": "Việt Nam (Tiếng Việt)"
+                },
+                {
+                    "country": "vietnam",
+                    "name": "Vietnam (English)"
+                },
+                {
+                    "country": "australia",
+                    "name": "Australia (English)"
+                }
+            ]
+        },
+        "currency": {
+            "title": "Currency",
+            "list": [
+                {
+                    "abbr": "AUD",
+                    "name": "Australian Dollar"
+                },
+                {
+                    "abbr": "SGD",
+                    "name": "Singapore Dollar"
+                },
+                {
+                    "abbr": "EUR",
+                    "name": "Euro"
+                },
+                {
+                    "abbr": "GBP",
+                    "name": "British Pound Sterling"
+                },
+                {
+                    "abbr": "IDR",
+                    "name": "Indonesian Rupiah"
+                },
+                {
+                    "abbr": "MYR",
+                    "name": "Malaysian Ringgit"
+                },
+                {
+                    "abbr": "USD",
+                    "name": "US Dollar"
+                },
+                {
+                    "abbr": "PHP",
+                    "name": "Philippine Peso"
+                },
+                {
+                    "abbr": "VND",
+                    "name": "Vietnamese Dong"
+                },
+                {
+                    "abbr": "THB",
+                    "name": "Thai Baht"
+                }
+            ]
+        }
+    },
+
+    "categoriesData": [
+        {
+            "title": "Transports",
+            "list": [
+                {
+                    "name": "Flights",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/4/4c2b56742d3432cbc9a0a2600fbc8bb5.svg"
+                },
+                {
+                    "name": "Flight + Hotel",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/3/36bca62f8840da5ea3670bf693f90f90.svg"
+                },
+                {
+                    "name": "Airport Transfer",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/c51ec07e3f7fb509b246825c6b7c6d6d.svg"
+                },
+                {
+                    "name": "Car Rental",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/4/44b891a96bfa52b48bbc541a4b1bb226.svg"
+                },
+                {
+                    "name": "JR Pass",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/3/301c3038b8bc837164fca384096404a6.svg"
+                },
+                {
+                    "name": "Flight Status",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/6/60d9cc111177e91ae2313968ffb9d930.svg"
+                },
+                {
+                    "name": "Price Alert",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/0/0d4d263a506fbeb97d7c863a1c85ffba.svg"
+                }
+            ]
+        },
+        {
+            "title": "Accommodations",
+            "list": [
+                {
+                    "name": "Hotels",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/4/4f35d2c4e9c6c6663f831cca1d2392b3.svg"
+                },
+                {
+                    "name": "Flight + Hotel",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/3/36bca62f8840da5ea3670bf693f90f90.svg"
+                },
+                {
+                    "name": "Quarantine Hotels",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/c0bbb2f73e0ccbc8be35f8d5b3949974.svg"
+                }
+            ]
+        },
+        {
+            "title": "Things to Do",
+            "list": [
+                {
+                    "name": "Xperience",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/5/56ad06f2128fa715be3108b2b90e927c.svg"
+                }
+            ]
+        },
+        {
+            "title": "Travel Add-ons",
+            "list": [
+                {
+                    "name": "My Points",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/f/f9dbe1077251284edf2c4f0eac008a70.svg"
+                },
+                {
+                    "name": "Gift Voucher",
+                    "src": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/e/ed63a7bd6105a2fc1d1d9ec52c7a051b.svg"
+                }
+            ]
+        }
+    ]
+}

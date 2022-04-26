@@ -1,0 +1,44 @@
+{
+    "categories": [
+        {
+            "title": "Flights",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/1/14570d0f2b738b8dc8ef903949bce73c.svg"
+        },
+        {
+            "title": "Hotels",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/a/a55648c68713fc122a36183be900970c.svg"
+        },
+        {
+            "title": "Flight + Hotel",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/d/d5986586ed5208e79da32e193ee6114e.svg"
+        },
+        {
+            "title": "Airport Transfer",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/c73be2b5ed63788de517755b48545c7b.svg"
+        },
+        {
+            "title": "Xperience",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/cc6c1c2302802a1979e32ecd7d6ab703.svg"
+        },
+        {
+            "title": "Car Rental",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/c21a03d3f725df0655ff334d38e0b0fd.svg"
+        },
+        {
+            "title": "JR Pass",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/6/6a0839f8685df62f8cf06b894ca58749.svg"
+        },
+        {
+            "title": "My Points",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/f/f9dbe1077251284edf2c4f0eac008a70.svg"
+        },
+        {
+            "title": "Flight Status",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/6/60d9cc111177e91ae2313968ffb9d930.svg"
+        },
+        {
+            "title": "Price Alert",
+            "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/0/0d4d263a506fbeb97d7c863a1c85ffba.svg"
+        }
+    ]
+}

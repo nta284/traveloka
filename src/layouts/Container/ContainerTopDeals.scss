@@ -1,0 +1,115 @@
+
+@import '../../sass/mixins';
+@import '../../sass/variables';
+
+.container_top-deals {
+    margin-top: 128px;
+    text-align: center;
+
+    .container_top-deals_header {
+        margin-bottom: 24px;
+    }
+
+    .container_top-deals_body {
+        .container_top-deals_navbar {
+            padding: 0 8px;
+            height: 50px;
+            border-top: 1px solid $hover-color;
+            border-bottom: 1px solid $hover-color;
+            position: relative;
+
+            .container_top-deals_navbar-wrapper {
+                height: 100%;
+                display: flex;
+
+                .container_top-deals_navbar_item {
+                    width: 25%;
+                    padding: 0 8px;
+                    @include flexCenter();
+                    
+                    .container_top-deals_name {
+                        color: #687176;
+                        font-size: 1.49rem;
+                        font-weight: 500;
+                        line-height: 48px;
+                        cursor: pointer;
+                        height: 100%;
+                        width: 100%;
+                        transition-duration: 0.25s;
+                        opacity: 1;
+                        
+                        &.container_top-deals_name--selected {
+                            color: $primary-color;
+                        }
+                        
+                        &.clicking-category {
+                            transition-duration: 0s;
+                            opacity: 0.2;
+                        }
+                    }
+                }
+            }
+
+            .container_top-deals_navbar_underline {
+                position: absolute;
+                width: 236px;
+                height: 2px;
+                bottom: -0.5px;
+                left: 0;
+                background-color: $primary-color;
+                transform: translateX(16px);
+                transition: 0.2s ease-in-out;
+            }
+        }
+
+        .container_top-deals_categories {
+            margin-top: 24px;
+
+            .container_top-deals_category {
+                display: none;
+                opacity: 0;
+                transform: translateX(25px);
+                transition: transform 0.3s ease-out;
+                
+                &.active-category {
+                    display: flex;
+                    opacity: 1;
+                }
+                
+                &.pending-category {
+                    transform: translateX(0);
+                }
+                
+                &.container_top-deals_category--4col .container_top-deals_category_column {
+                    width: 25%;
+                }
+
+                &.container_top-deals_category--3col .container_top-deals_category_column {
+                    width: 33.33%;
+                    margin-right: 5px;
+
+                    &:last-child {
+                        margin-right: 0;
+                    }
+                }
+
+                .container_top-deals_category_column {
+                    height: 100%;
+                    
+                    a {
+                        display: block;
+                        text-decoration: none;
+                        color: $text-color;
+                        text-align: left;
+                        margin-bottom: 12px;
+
+                        span {
+                            font-size: 1.49rem;
+                            line-height: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

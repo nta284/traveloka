@@ -1,0 +1,80 @@
+{
+    "exclusively": [
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2017/09/25/1506337422737-62994c69103a7cf81da163f4e053f2dc.svg?tr=q-75",
+            "title": "Flight Price Alerts"
+        },
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2018/12/13/1544686502328-8f67e9820583ce678f46d4183a52906b.svg?tr=q-75",
+            "title": "Saved List"
+        },
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2017/09/25/1506337426898-9ec2484fef85cd8e0a1d0b03f29dbae0.svg?tr=q-75",
+            "title": "Easy Reschedule"
+        },
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2017/09/25/1506337432346-470da32d4bf189816f7043553abd5d0a.svg?tr=q-75",
+            "title": "Passenger Quick Pick"
+        }
+    ],
+
+    "deals": [
+        "https://ik.imagekit.io/tvlk/image/imageResource/2022/02/28/1646036503708-30d77be8dd925d0528930d12c2fb4b89.png?tr=h-150,q-75,w-296",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2022/03/10/1646884042927-bd52dc0a526d0f3bc502249fdcaab9b5.png?tr=h-150,q-75,w-296",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2022/03/15/1647323068613-a438e204c2c4ba41bcba27699c03bd1e.png?tr=h-150,q-75,w-296",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2022/03/08/1646727188833-9fbce4e4db34136a3f5c0d2b76740b59.png?tr=h-150,q-75,w-296",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2022/01/07/1641538987148-388c180a2357bc3bece5c392531af44b.jpeg?tr=h-150,q-75,w-296",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2022/01/26/1643184964834-459ae217974d66cc4ae23ce8ce6fba50.jpeg?tr=h-150,q-75,w-296"
+    ],
+
+    "as-seen-in": [
+        "https://ik.imagekit.io/tvlk/image/imageResource/2017/09/22/1506075511476-549788d3f233d9fd4f82e56aadaa0699.jpeg?tr=q-75,w-150",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2017/09/22/1506075524458-863bf8978027623596b07905b77c3038.jpeg?tr=q-75,w-150",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2017/09/22/1506075529727-26e887499b15d490d6d8b7fe59254960.png?tr=q-75,w-150",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2017/12/19/1513667223219-208b4bee6762dda1687818bbfce0c833.png?tr=q-75,w-150",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2017/12/19/1513667252903-2eee8ba567cfce19f977d58698e00f63.png?tr=q-75,w-150",
+        "https://ik.imagekit.io/tvlk/image/imageResource/2017/09/22/1506075535089-95cb6f321f857a1f7a19feb443689a35.jpeg?tr=q-75,w-150"
+    ],
+
+    "blogs": [
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2021/08/31/1630399815077-fed98332aac359c53be24d9bc54b79b2.jpeg?tr=h-316,q-75",
+            "title": "Chill at home with online travel"
+        },
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2021/08/31/1630399997215-8583997573cbf07d09160c050345020b.jpeg?tr=h-316,q-75",
+            "title": "Quarantine hotel list in Ho Chi Minh City"
+        },
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2021/08/31/1630399996064-e45a9e640b24af8e5ab7612b4d01ba13.jpeg?tr=h-316,q-75",
+            "title": "Tips to protect yourself before Covid test"
+        },
+        {
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2021/08/31/1630400042219-3066705b9fe303c1b66112cddd1ae138.jpeg?tr=h-316,q-75",
+            "title": "International Travel Guide 2021"
+        }
+    ],
+
+    "why-book": [
+        {
+            "title": "One Stop Travel Solution",
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2017/05/17/1495008397738-95cd53fb75f2b276db1a99c906ecb8bb.png?tr=h-150,q-75,w-150",
+            "description": "A complete solution - book flights and hotels in Vietnam & Southeast Asia at the same time with great savings."
+        },
+        {
+            "title": "All-in Everyday Low Prices",
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2017/05/17/1495008412429-b596ddd811d26257f3125ef14d5d70dc.png?tr=h-150,q-75,w-150",
+            "description": "The low prices you see are what you pay! No additional charges for easy comparison across various options!"
+        },
+        {
+            "title": "Secure & Flexible Payment Methods",
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2017/05/17/1495008433090-fa4cd01d29bc7733a08ab3fd9572b796.png?tr=h-150,q-75,w-150",
+            "description": "Secure online transactions with various payment options from Convenience Stores,  Bank Transfer, Credit Card to Internet Banking. No additional transaction fees."
+        },
+        {
+            "title": "24/7 Customer Support",
+            "img": "https://ik.imagekit.io/tvlk/image/imageResource/2017/05/17/1495008444362-b3d525f7c3d223473b4b01bab75e15cf.png?tr=h-150,q-75,w-150",
+            "description": "Around-the-clock customer service team to assist you in every step of the booking process."
+        }
+    ]
+}

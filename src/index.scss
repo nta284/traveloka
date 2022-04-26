@@ -1,0 +1,22 @@
+
+@import './sass/reset';
+@import './sass/mixins';
+@import './sass/variables';
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;350;400;440;460;500;525;550&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Fredoka', sans-serif;
+    font-weight: 440;
+    color: $text-color;
+}
+
+body {
+    cursor: default;
+    position: relative;
+}

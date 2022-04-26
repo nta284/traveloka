@@ -1,0 +1,53 @@
+
+.btn {
+    border: none;
+    font-size: inherit;
+    font-weight: 500;
+    font-family: inherit;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.opa-0 {
+    opacity: 0 !important;
+}
+
+.opa-1 {
+    opacity: 1 !important;
+}
+
+.translateX-show {
+    transform: translateX(0px) !important;
+}
+
+.visible {
+    visibility: visible !important;
+}
+
+.invisible {
+    visibility: hidden !important;
+}
+
+.d-none {
+    display: none;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.one-third {
+    width: 33.33%;
+}
+
+.two-thirds {
+    width: 66.67%;
+}
+
+.z-index-5 {
+    z-index: 5 !important;
+}
+
+.rotate-180 {
+    transform: rotate(180deg);
+}

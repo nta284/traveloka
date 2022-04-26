@@ -1,0 +1,193 @@
+[
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/4/455eab646e53732d81380eabadf10b47.svg",
+        "title": "Home",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/b/b0f87008a7a01d72ffb5eacf06870cba.svg",
+        "title": "My Booking",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/7/7eb0ddef942f797baed188048d3b44c0.svg",
+        "title": "My Inbox",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/c80a2b136969e32f4db682792d1110f6.svg",
+        "title": "Saved",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/2/257312a3c86f5acccb9016a2785f352c.svg",
+        "title": "Contact Us",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/b/bdab924c2bd3a5fb492022beb158a6ef.svg",
+        "title": "Partner with Us",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/7/758f48cd135044cc79b1be81b30b6fb7.svg",
+        "title": "Help Center",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Select",
+        "img": null,
+        "title": "Country & Language",
+        "abbr": "EN-VN",
+        "options": [
+            "Indonesia (Bahasa Indonesia)",
+            "Indonesia (English)",
+            "Global (English)",
+            "Malaysia (English)",
+            "Malaysia (Bahasa Malaysia)",
+            "Philippines (English)",
+            "Singapore (English)",
+            "Thailand (English)",
+            "ไทย (ภาษาไทย)",
+            "Việt Nam (Tiếng Việt)",
+            "Vietnam (English)"
+        ],
+        "has_hr": false
+    },
+    {
+        "type": "Select",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/a/a7dfbc5d44548175e9151279ba541913.svg",
+        "title": "Currency",
+        "abbr": "VND",
+        "options": [
+            "Australian Dollar",
+            "Singapore Dollar",
+            "Euro",
+            "British Pound Sterling",
+            "Indonesian Rupiah",
+            "Malaysian Ringgit",
+            "US Dollar",
+            "Philippine Peso",
+            "Vietnamese Dong",
+            "Thai Baht"
+        ],
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/e/e5c33e1fda1890d4c33d9dd26bd6a693.svg",
+        "title": "Download App",
+        "abbr": null,
+        "options": null,
+        "has_hr": true
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/4/4c2b56742d3432cbc9a0a2600fbc8bb5.svg",
+        "title": "Flights",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/4/4f35d2c4e9c6c6663f831cca1d2392b3.svg",
+        "title": "Hotels",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/3/36bca62f8840da5ea3670bf693f90f90.svg",
+        "title": "Flight + Hotel",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/c51ec07e3f7fb509b246825c6b7c6d6d.svg",
+        "title": "Airport Transfer",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/5/56ad06f2128fa715be3108b2b90e927c.svg",
+        "title": "Xperience",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/4/44b891a96bfa52b48bbc541a4b1bb226.svg",
+        "title": "Car Rental",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/3/301c3038b8bc837164fca384096404a6.svg",
+        "title": "JR Pass",
+        "abbr": null,
+        "options": null,
+        "has_hr": true
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/a/a06cd431186003df0ad51bdb474d9b09.svg",
+        "title": "Careers",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/a/a646cdd18832a5d02d177ffe9debca28.svg",
+        "title": "Blog",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/a/a1be732e5060ca22338f73cb3353950b.svg",
+        "title": "How to Book",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    },
+    {
+        "type": "Link",
+        "img": "https://d1785e74lyxkqq.cloudfront.net/_next/static/v2/c/cef9778118bdd85e1062cdd0b6196362.svg",
+        "title": "Subscribe to Newsletter",
+        "abbr": null,
+        "options": null,
+        "has_hr": false
+    }
+]
