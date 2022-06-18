@@ -11,11 +11,10 @@ function App() {
 
     return (
         <div className="App">
-            <Header setSidenavToggle={setSidenavToggle} />
-            <Sidenav sidenavToggle={sidenavToggle} setSidenavToggle={setSidenavToggle} />
-            <Container />
-            <Footer />
-            <HelpBox />
+            <div className='container'>
+                <div className='div1'></div>
+                <div className='div2'></div>
+            </div>
         </div>
     )
 }

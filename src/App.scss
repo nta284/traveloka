@@ -51,3 +51,22 @@
 .rotate-180 {
     transform: rotate(180deg);
 }
+
+.container {
+    height: 300px;
+    width: 300px;
+    border: 2px solid yellow;
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+}
+
+.div1 {
+    flex: 1;
+}
+
+.div2 {
+    height: 100px;
+    width: 100%;
+    background-color: white;
+}
