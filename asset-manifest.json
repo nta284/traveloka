@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/traveloka/static/css/main.407edcaa.css",
-    "main.js": "/traveloka/static/js/main.0b6aad26.js",
+    "main.js": "/traveloka/static/js/main.fd402b8b.js",
     "index.html": "/traveloka/index.html",
     "main.407edcaa.css.map": "/traveloka/static/css/main.407edcaa.css.map",
-    "main.0b6aad26.js.map": "/traveloka/static/js/main.0b6aad26.js.map"
+    "main.fd402b8b.js.map": "/traveloka/static/js/main.fd402b8b.js.map"
   },
   "entrypoints": [
     "static/css/main.407edcaa.css",
-    "static/js/main.0b6aad26.js"
+    "static/js/main.fd402b8b.js"
   ]
 }
